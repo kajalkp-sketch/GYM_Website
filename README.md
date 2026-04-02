@@ -3,7 +3,7 @@
 A responsive gym website showcasing services, facilities, and membership plans.
 
 ## 🚀 Live Demo
-🔗 https://yourusername.github.io/GymWebsite/
+🔗 https://kajalkp-sketch.github.io/GYM_Website/
 
 ## 📌 Features
 - 🏠 Home section
